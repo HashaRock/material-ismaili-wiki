@@ -142,3 +142,14 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+nav:
+  - Home: index.md
+  - Ginans:
+    - Ginans/index.md
+    - Ginan 1 (use title of ginan here): Ginans/ginantitle.md   
+  - Waizes:
+    - Waizes/index.md
+    - Abu Aly Collection: 
+      - Waiz 1 : Waizes/waiztitle.md
+  - Blog:
+    - blog/index.md
