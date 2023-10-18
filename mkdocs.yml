@@ -67,6 +67,7 @@ theme:
 # Plugins
 plugins:
   - blog
+  - tags
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
@@ -146,7 +147,9 @@ nav:
   - Home: index.md
   - Ginans:
     - Ginans/index.md
-    - Ginan 1 (use title of ginan here): Ginans/ginantitle.md   
+    - Ismaili Heritage Collection:
+      - Aa ghatte saas usaas (Pir Sadardin): Ginans/aaghattesaasusaas_sadardin.md
+      - Aaapnu aap pichhaanno (Pir Indra Imaamdin): Ginans/Aaapnuaappichhaanno_indra.md
   - Waizes:
     - Waizes/index.md
     - Abu Aly Collection: 
